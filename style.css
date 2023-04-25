@@ -1,0 +1,42 @@
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #020202d8;
+}
+
+body {
+  background-color: #ad3510;
+}
+
+h2 {
+  font-family: sans-serif;
+  color: #778898;
+}
+
+.main-header {
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.price-1 {
+  font-size: 30px;
+  height: 12px;
+  color: blue;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+.price-2 {
+  font-size: 30px;
+  height: 12px;
+  color: blue;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.title-list {
+  font-size: 50px;
+  font-family: 'Trebuchet MS';
+  height: 60px;
+  font-weight: 200;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  color: blue;
+}
